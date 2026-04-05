@@ -1,4 +1,4 @@
-# Linear Regressin (Zero-Dependency)
+# Linear Regression (Zero-Dependency)
 
 A high-performance, *zero-dependency* C++ engine for solving linear regression problems. All mathematical operation and decomposition algorithms are implemented from scratch in a dedicated `Maths` class.
 
